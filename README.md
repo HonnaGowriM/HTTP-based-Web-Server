@@ -1,0 +1,2 @@
+# HTTP-based-Web-Server
+A program on a web server that handles multiple HTTP requests at a time wherein the web server accepted and parsed the HTTP request, fetched the requested file from the server's file system , Create an HTTP response message consisting of the requested file preceded by header lines. Additionally, send the response directly to the client. Appropriate error handling such as 4XX and 5XX was implemented. 
